@@ -37,7 +37,7 @@ Setup Instructions
 Clone or download this repository.
 bash
 
-````git clone https://github.com/your-repo/wi-fi-brute-forcer.git````
+````git clone https://github.com/Illusivehacks/wifi-bruteforcer.git````
 
 Place all required files in the BF_Files folder.
 Open the project folder in your terminal or command prompt.
