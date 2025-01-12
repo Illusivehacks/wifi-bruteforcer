@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<WLANProfile xmlns="http://www.microsoft.com/networking/WLAN/profile/v1">
+<name>Home</name>
+<SSIDConfig>
+<SSID>
+<name>Home</name>
+</SSID>
+</SSIDConfig>
+<connectionType>ESS</connectionType>
+<connectionMode>auto</connectionMode>
+<MSM>
+<security>
+<authEncryption>
+<authentication>WPA2PSK</authentication>
+<encryption>AES</encryption>
+<useOneX>false</useOneX>
+</authEncryption>
+<sharedKey>
+<keyType>passPhrase</keyType>
+<protected>false</protected>
+<keyMaterial>12341234</keyMaterial>
+</sharedKey>
+</security>
+</MSM>
+<MacRandomization xmlns="http://www.microsoft.com/networking/WLAN/profile/v3">
+<enableRandomization>false</enableRandomization>
+</MacRandomization>
+</WLANProfile>
