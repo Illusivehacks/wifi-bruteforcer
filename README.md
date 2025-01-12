@@ -1,7 +1,5 @@
-Here's a comprehensive, aesthetic README file for your batch script project:
-
 The WI-FI Brute Forcer
-
+![Screenshot Placeholder](GUI.png)
 
 Table of Contents
 About the Project
@@ -55,10 +53,10 @@ interface: Allows you to select a specific network interface.
 attack: Begins the brute-force attack on the selected network.
 Screenshots
 Main Interface
-<!-- Add an image showing the main UI -->
+![Screenshot Placeholder](GUI.png)
 
 WI-FI Scan Results
-<!-- Add an image of the scan results -->
+![Screenshot Placeholder](output.png)
 
 Contributing
 Contributions are welcome! If you have ideas or improvements, please: williamkitungo@gmail.com
@@ -84,5 +82,5 @@ This project is licensed under the MIT License. See LICENSE for details.
 Acknowledgements
 Developed by ILLUSIVEHACKS.
 UI enhancements powered by Cipher Group.
-Visit their WhatsApp Channel.
+Visit their WhatsApp Channel. -> https://whatsapp.com/channel/0029VaKenMe0LKZEAnWle521
 Special thanks to the open-source community for inspiration and resources.
