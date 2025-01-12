@@ -79,6 +79,53 @@ Open a Pull Request.
 License
 This project is licensed under the MIT License. See LICENSE for details.
 
+
+
+
+
+
+
+
+Key Combinator - Password Generator
+Key Combinator is a batch script developed to generate customizable password lists based on user-defined parameters.
+
+Features
+Generates passwords of varying lengths.
+Combines characters, digits, and symbols for strong password creation.
+
+
+Allows user customization:
+Define password lengths (minimum length of 8).
+Specify the number of passwords to generate per length.
+Outputs all generated passwords into a text file (passlist_raw.txt) for easy access.
+
+How It Works
+Initialization: The script sets up necessary variables and configures the password generation logic.
+User Input:
+Specify the maximum password length.
+Indicate the number of passwords to generate per length.
+Password Generation:
+For each password, the script randomly selects characters, digits, or symbols.
+Passwords are generated iteratively for all specified lengths.
+Output:
+Generated passwords are saved in passlist_raw.txt in the BF_Files directory.
+The total count of generated passwords is displayed upon completion.
+
+
+Requirements
+Place the script in a folder containing colorchar.exe (used for colored text output).
+Ensure the BF_Files directory exists in the same location as the script.
+
+
+How to Use
+Run the batch script (.bat file).
+Enter the desired parameters when prompted:
+Maximum password length.
+Number of passwords per length.
+Wait for the script to generate passwords.
+Find the generated passwords in the passlist_raw.txt file.
+Enjoy secure password generation with Key Combinator!
+
 Acknowledgements
 Developed by ILLUSIVEHACKS.
 UI enhancements powered by Cipher Group.
